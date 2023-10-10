@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Face_sentiment/static/css/main.fe1b5bc3.css",
+    "main.js": "/Face_sentiment/static/js/main.6dd10311.js",
+    "index.html": "/Face_sentiment/index.html",
+    "main.fe1b5bc3.css.map": "/Face_sentiment/static/css/main.fe1b5bc3.css.map",
+    "main.6dd10311.js.map": "/Face_sentiment/static/js/main.6dd10311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe1b5bc3.css",
+    "static/js/main.6dd10311.js"
+  ]
+}
